@@ -6,7 +6,9 @@
 - AI 번역입니다.
   - 출발어는 영문이지만, 말투는 일문을 따라하도록 설정했습니다.
 
-<img width="2560" height="1440" alt="1" src="https://github.com/user-attachments/assets/fe53a88b-5dd5-40b9-958d-504cfe01af80" />
+<img width="2556" height="1437" alt="image" src="https://github.com/user-attachments/assets/6f705e30-64e1-4c2b-a3a5-bf23faa2f041" />
+
+<img width="2560" height="1440" alt="209888~1" src="https://github.com/user-attachments/assets/54d578d5-c946-4978-aed4-e9a3fa7b02ca" />
 
 <img width="2560" height="1440" alt="2" src="https://github.com/user-attachments/assets/fdfc2083-0423-485a-8b50-e6b293d9e0b5" />
 
@@ -19,6 +21,7 @@
 
 - 폰트
   - [Noto Sans KR](https://fonts.google.com/noto/specimen/Noto+Sans+KR)
+  - [NEXON Warhaven](https://brand.nexon.com/ko/ci-brand-guidelines/typeface#section-warhaven)
 
 ## 사용법
 
