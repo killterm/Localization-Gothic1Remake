@@ -23,5 +23,5 @@
 
 ## 사용법
 
-1. [최신 Release](https://github.com/killterm/Localization-Gothic1Remake/releases) 다운로드
-2. 게임 설치 경로로 이동
+1. [최신 Release](https://github.com/killterm/Localization-Gothic1Remake/releases/latest)에서 `Gothic1Remake_KoreanPatch.zip` 파일을 눌러 다운로드
+2. 게임 설치 경로에 있는 `G1R` 폴더 덮어쓰기
