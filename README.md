@@ -5,7 +5,6 @@
 - 수정 및 재배포 금지입니다.
 - AI 번역입니다.
   - 출발어는 영문이지만, 말투는 일문을 따라하도록 설정했습니다.
-  - `설정` > `게임` > 텍스트 언어를 `일본어`로 설정
 
 <img width="2560" height="1440" alt="1" src="https://github.com/user-attachments/assets/fe53a88b-5dd5-40b9-958d-504cfe01af80" />
 
@@ -25,3 +24,4 @@
 
 1. [최신 Release](https://github.com/killterm/Localization-Gothic1Remake/releases/latest)에서 `Gothic1Remake_KoreanPatch.zip` 파일을 눌러 다운로드
 2. 게임 설치 경로에 있는 `G1R` 폴더 덮어쓰기
+3. `Settings` > `Game` > `Text Language`를 일본어로 설정
