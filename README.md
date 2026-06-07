@@ -21,7 +21,7 @@
 
 <img width="2560" height="1440" alt="209888~1" src="https://github.com/user-attachments/assets/54d578d5-c946-4978-aed4-e9a3fa7b02ca" />
 
-<img width="2560" height="1440" alt="2" src="https://github.com/user-attachments/assets/fdfc2083-0423-485a-8b50-e6b293d9e0b5" />
+<img width="2560" height="1440" alt="20C652~1" src="https://github.com/user-attachments/assets/2192869f-5a6b-4fac-9a9d-b3e864a550af" />
 
 ## 라이센스
 
