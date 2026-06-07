@@ -26,5 +26,5 @@
 ## 라이센스
 
 - 폰트
-  - [Noto Sans KR](https://fonts.google.com/noto/specimen/Noto+Sans+KR)
+  - [Noto Serif Korean](https://fonts.google.com/noto/specimen/Noto+Serif+KR)
   - [NEXON Warhaven](https://brand.nexon.com/ko/ci-brand-guidelines/typeface#section-warhaven)
