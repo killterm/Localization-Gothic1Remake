@@ -5,17 +5,14 @@
 - 수정 및 재배포 금지입니다.
 - AI 번역입니다.
   - 출발어는 영문이지만, 말투는 일문을 따라하도록 설정했습니다.
-
-## 게임
-
-- [스팀 상점 페이지](https://store.steampowered.com/app/1297900/Gothic_1_Remake/)
 - 게임 버전: [BuildID 23589065](https://steamdb.info/patchnotes/23589065/)
 
 ## 사용법
 
-1. [최신 Release](https://github.com/killterm/Localization-Gothic1Remake/releases/latest)에서 `Gothic1Remake_KoreanPatch.zip` 파일을 눌러 다운로드
-2. 게임 설치 경로에 있는 `G1R` 폴더 덮어쓰기
-3. `Settings` > `Game` > `Text Language`를 일본어로 설정
+1. [여기를 눌러 최신 Release](https://github.com/killterm/Localization-Gothic1Remake/releases/latest)로 이동
+2. `Gothic1Remake_KoreanPatch.zip` 압축 파일을 눌러 다운로드
+3. 게임 설치 경로에 있는 `G1R` 폴더 덮어쓰기
+4. `Settings` > `Game` > `Text Language`를 일본어로 설정
 
 <img width="2556" height="1437" alt="image" src="https://github.com/user-attachments/assets/6f705e30-64e1-4c2b-a3a5-bf23faa2f041" />
 
